@@ -79,7 +79,7 @@ npm run preview
 ## 🔗 Links
 
 - **GitHub Repository:** https://github.com/PRINCE7021/REACT_FINAL
-- **Live Demo:** _add deployed link here (e.g. Vercel/Netlify) once deployed_
+- **Live Demo:** https://react-final-9ef5.vercel.app/
 
 ## 📄 Notes
 
